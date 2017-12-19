@@ -1,3 +1,3 @@
 function updateDriverWithKeyAndValue() {
-  const obj = {drivers: 'driver'};
+  const obj = {driver: 'name'};
 }
