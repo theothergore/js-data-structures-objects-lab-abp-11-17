@@ -1,4 +1,4 @@
-updateDriverWithKeyAndValue(){
+function updateDriverWithKeyAndValue(){
   const driver = {
     driver: 'Sam',
     street2: '2nd Floor',
@@ -7,4 +7,3 @@ updateDriverWithKeyAndValue(){
     zipCode: 10004
   };
 }
-
