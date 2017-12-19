@@ -1,5 +1,7 @@
-const driver = object; 
-
-function updateDriverWithKeyAndValue() {
-  const driver = {object: 'driver'};
-}
+const driver = {
+  driver: 'Sam',
+  street2: '2nd Floor',
+  city: 'New York',
+  state: 'NY',
+  zipCode: 10004
+};
