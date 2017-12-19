@@ -1,4 +1,3 @@
-function updateDriverWithKeyAndValue(){
   const driver = {
     driver: 'Sam',
     street2: '2nd Floor',
@@ -6,4 +5,3 @@ function updateDriverWithKeyAndValue(){
     state: 'NY',
     zipCode: 10004
   };
-}
